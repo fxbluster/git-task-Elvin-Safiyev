@@ -1,2 +1,7 @@
+# İstifadəçidən ad və yaş alan proqram
+
 name = input("Adınızı daxil edin: ")
-print(f"Salam, {name}!")
+age = input("Yaşınızı daxil edin: ")
+
+print(f"\nSalam, {name}!")
+print(f"Sizin {age} yaşınız var. Layihəmizə xoş gəlmisiniz!\n")
