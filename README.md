@@ -5,9 +5,9 @@ Bu layihə Git versiya idarəetmə sistemi və GitHub platforması üzrə prakti
 ---
 
 ## Tələbə Məlumatları
-- **Ad və Soyad:** [Ad Soyad]
-- **Qrup:** [Qrup]
-- **Layihə qovluğu / Repo adı:** `git-task-ad-soyad`
+- **Ad və Soyad:** Elvin Səfiyev
+- **Qrup:** 845İ
+- **Layihə qovluğu / Repo adı:** `git-task-Elvin-Safiyev`
 
 ---
 
